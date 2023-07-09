@@ -1,2 +1,2 @@
 #!/bin/bash
-vhown vincent:staff _hello
+chown vincent:staff _hello
